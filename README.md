@@ -21,13 +21,10 @@ An interactive, terminal-based quiz game designed to test and enhance your knowl
    ```bash	
    cd quiz-game
 
-
 3. Run the script.
    ```bash
    python quizFinal.py
     
-
-
 Gameplay Instructions
 
 	1.	Start the game by selecting the “Start” option in the menu.
@@ -58,7 +55,3 @@ Sarthak Bhatt
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-License
-
-This project is licensed under the MIT License. Feel free to modify and distribute as needed.
