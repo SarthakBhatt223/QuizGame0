@@ -17,14 +17,14 @@ An interactive, terminal-based quiz game designed to test and enhance your knowl
    ```bash
    git clone https://github.com/your-username/quiz-game.git
 
-2.	Navigate to the project directory.
+2. Navigate to the project directory.
+   ```bash	
+   cd quiz-game
 
-  	  cd quiz-game
 
-   
-4.	Run the script.
-   
-     python quizFinal.py
+3. Run the script.
+   ```bash
+   python quizFinal.py
     
 
 
